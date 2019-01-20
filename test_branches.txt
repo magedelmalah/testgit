@@ -3,3 +3,5 @@ start on master
 start sample branch
 
 Test conflict
+
+<h1>This come from remote repo</h1>
