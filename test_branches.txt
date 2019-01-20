@@ -4,5 +4,9 @@ start sample branch
 
 Test conflict
 
+<<<<<<< HEAD
 <h1>This resolving conflict-second loccal</h1>
+=======
+<h1>This resolving conflict-second remote</h1>
+>>>>>>> 30186fd3a30c402a7839bd2cf89c244ae376dc28
 
