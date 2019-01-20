@@ -4,5 +4,5 @@ start sample branch
 
 Test conflict
 
-<h1>This resolving conflict</h1>
+<h1>This resolving conflict-second remote</h1>
 
