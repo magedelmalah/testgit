@@ -2,4 +2,4 @@ start on master
 
 start sample branch
 
-This changes to test revert (rollback committed)
+Test conflict
